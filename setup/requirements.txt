@@ -1,0 +1,10 @@
+torch
+transformers 
+scikit-learn
+pandas
+matplotlib
+langchain
+accelerate
+pynvml
+notebook
+huggingface_hub[cli]
